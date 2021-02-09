@@ -1,1 +1,49 @@
+{
+  "_comment": "Cypress",
+  "block.bayou_blues.stripped_cypress_log": "Обтёсаное кипарисовое бревно",
+  "block.bayou_blues.cypress_log": "Кипарисовое бревно",
+  "block.bayou_blues.stripped_cypress_wood": "Обтёсанный кипарис",
+  "block.bayou_blues.cypress_wood": "Кипарис",
+  "block.bayou_blues.cypress_planks": "Кипарисовые доски",
+  "block.bayou_blues.cypress_slab": "Кипарисовая плита",
+  "block.bayou_blues.cypress_stairs": "Кипарисовые ступеньки",
+  "block.bayou_blues.cypress_pressure_plate": "Кипарисовая нажимная плита",
+  "block.bayou_blues.cypress_fence": "Кипарисовый забор",
+  "block.bayou_blues.cypress_fence_gate": "Кипарисовая калитка",
+  "block.bayou_blues.cypress_button": "Кипарисовая кнопка",
+  "block.bayou_blues.cypress_trapdoor": "Кипарисовый люк",
+  "block.bayou_blues.cypress_door": "Кипарисовая дверь",
+  "block.bayou_blues.cypress_sign": "Кипарисовая табличка",
+  "block.bayou_blues.cypress_leaves": "Листья кипариса",
+  "block.bayou_blues.cypress_sapling": "Саженец кипариса",
+  "block.bayou_blues.cypress_leaf_carpet": "Ковёр из листьев кипариса",
+  "block.bayou_blues.cypress_bookshelf": "Cypress Bookshelf",
+  "block.bayou_blues.cypress_chest": "Кипарисовый сундук",
+  "block.bayou_blues.cypress_trapped_chest": "Кипарисовый сундук-ловушка",
+  "block.bayou_blues.cypress_ladder": "Кипарисовая лестница",
+  "block.bayou_blues.cypress_vertical_slab": "Вертикальная кипарисовая плита",
+  "block.bayou_blues.vertical_cypress_planks": "Вертикальные кипарисовые доски",
+  "block.bayou_blues.cypress_beehive": "Кипарисовый улей",
+  "block.bayou_blues.potted_cypress_sapling": "Посаженый саженец кипариса",
 
+  "item.bayou_blues.cypress_boat": "Кипарисовая лодка",
+
+  "block.bayou_blues.hanging_cypress_leaves": "Свисающие листья кипариса",
+
+  "block.bayou_blues.cypress_knee": "Кипарисовое колено",
+  "block.bayou_blues.large_cypress_knee": "Большое кипарисовое колено",
+  "block.bayou_blues.stripped_cypress_knee": "Обтёсаное кипарисовое колено",
+  "block.bayou_blues.stripped_large_cypress_knee": "Обтёсаное большое кипарисовое колено",
+
+  "_comment1": "Gooseberries",
+  "item.bayou_blues.gooseberries": "Крыжовник",
+  "item.bayou_blues.gooseberry_juice": "Крыжовниковый сок",
+  "item.bayou_blues.gooseberry_pie": "Крыжовниковый пирог",
+
+  "block.bayou_blues.cypress_branch": "Кипарисовая ветка,
+  "block.bayou_blues.gooseberry_sack": "Мешок крыжовника",
+
+  "_comment2": "Misc",
+  "biome.bayou_blues.bayou": "Байу",
+  "biome.bayou_blues.bayou_hills": "Холмы байу"
+}
